@@ -1,0 +1,7 @@
+=================================================================================================
+These are the options you have:
+
+List of options:
+raise <amount>            raise the bid, you are willing to add <amount> on last bid
+quit                      quit the auction
+=================================================================================================

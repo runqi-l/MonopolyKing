@@ -1,0 +1,16 @@
+=================================================================================================
+These are the options you have:
+
+List of options:
+roll                              Roll two dice and move forward by the sum of the dices
+next                              Give control to the next player
+escape <pay/cup>                  To escape from DC Tims Line, pay $50 or use Roll up the Rim cup
+trade <name> <give> <receive>     Give <name> $<give> in order for <receive>
+improve <property> buy/sell       Buy or sell an improvement for <property>
+mortgage <property>               Mortgage <property>
+unmortgage <property>             Unmortgage <property>
+bankrupt                          Player declares bankruptcy
+assets                            Display the assets of the current player
+all                               Display assets of every player
+save <filename>                   Saves the current state of the game to <filename>
+=================================================================================================
